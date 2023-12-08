@@ -57,7 +57,7 @@ docker-compose down
 1. 請先確認有安裝 Node.js 與 npm。
 2. 啟動您的終端機或命令提示字元，然後將此專案克隆到您的電腦上。
 ```
-git clone https://github.com/Lanways/trade-tracker.git
+git clone https://github.com/deamo771003/trade-tracker.git
 ```
 3. 進入專案資料夾。
 ```
